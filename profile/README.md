@@ -72,7 +72,7 @@ Just open an issue or a PR.
 
 Questions, ideas, collaborations?
 
-* Email: [attilazavoczki@mechaxil.com](mailto:attilazavoczki@mechaxil.com)
+* Email: [attila.zavoczki@mechaxil.com](mailto:attila.zavoczki@mechaxil.com)
 * GitHub Issues: open anytime
 
 Thanks for supporting Mechaxil – let’s build something awesome together!
